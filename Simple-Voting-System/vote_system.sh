@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # ==========================================
-#       SIMPLE VOTING SYSTEM
+#     ---  SIMPLE VOTING SYSTEM  ---
+            
 # ==========================================
 
 # File to store all data
@@ -30,7 +31,14 @@ count_votes() {
 show_menu() {
   echo -e "${CYAN}"
   echo "========================================"
-  echo "    -----SIMPLE VOTING SYSTEM------- "
+  echo "    ---  SIMPLE VOTING SYSTEM  ---"
+  echo " Description : A simple Bash-based voting program that allows
+               users to vote for their favorite candidate,
+               prevents duplicate votes, shows live results,
+               and lets the admin reset all votes easily.
+
+  Creator       : ☠️PAHADI☠️
+  Creating Year : 2025"
   echo "========================================"
   echo -e "${NC}"
   echo -e "${YELLOW}1) Voting List${NC}"
