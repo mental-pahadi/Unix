@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ==========================================
-#     SIMPLE VOTING SYSTEM 
+#       SIMPLE VOTING SYSTEM
 # ==========================================
 
 # File to store all data
