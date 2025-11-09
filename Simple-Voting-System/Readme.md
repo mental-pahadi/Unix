@@ -41,7 +41,7 @@ It stores all votes securely in a file, prevents duplicate voting, and provides 
 --------
 
 # 🚀 Usage : 
-## 📱 In Termux : 
+#### 📱 In Termux : 
 ```bash 
 pkg install git -y
 git clone https://github.com/mental-pahadi/Unix
@@ -49,7 +49,7 @@ cd Unix/Simple-Voting-System
 chmod +x VotingSystem.sh
 ./VotingSystem.sh
 ```
-## 💻 In Linux :
+#### 💻 In Linux 
 ```bash
 sudo apt install git -y
 git clone https://github.com/mental-pahadi/Unix
