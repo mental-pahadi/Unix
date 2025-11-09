@@ -29,17 +29,14 @@ It stores all votes securely in a file, prevents duplicate voting, and provides 
 
 # 🧾 Menu Options
 
-| Option | Action |
-|:------:|:--------|
-| 1 | Vote for a candidate |
-| 2 | Show live voting results |
-| 3 | Reset all votes (Admin only) |
-| 4 | View all voters (Admin only) |
-| 5 | Export results to file (Admin only) |
-| 6 | Delete a specific voter (Admin only) |
-| 7 | Exit the program |
+- **1** — Vote for a candidate  
+- **2** — Show live voting results  
+- **3** — Reset all votes (Admin only)  
+- **4** — View all voters (Admin only)  
+- **5** — Export results to file (Admin only)  
+- **6** — Delete a specific voter (Admin only)  
+- **7** — Exit the program
   
-
 --------
 --------
 # 🚀 Usage : 
