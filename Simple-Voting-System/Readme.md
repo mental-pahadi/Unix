@@ -39,11 +39,34 @@ It stores all votes securely in a file, prevents duplicate voting, and provides 
   
 --------
 --------
+
 # 🚀 Usage : 
-## In Termux
+## 📱 In Termux : 
 ```bash 
 pkg install git -y
 git clone https://github.com/mental-pahadi/Unix
 cd Unix/Simple-Voting-System
 chmod +x VotingSystem.sh
+./VotingSystem.sh
 ```
+## 💻 In Linux :
+```bash
+sudo apt install git -y
+git clone https://github.com/mental-pahadi/Unix
+cd Unix/Simple-Voting-System
+chmod +x VotingSystem.sh
+bash VotingSystem.sh
+```
+
+--------
+--------
+
+# ⚙️ Admin Capabilities
+
+- Reset Voting: Clears all data from the voting file.
+- View Voters: Shows who voted for whom.
+- Export Results: Saves the current results with timestamps to results_summary.txt.
+- Delete a Voter: Remove a single voter’s entry by username.
+
+--------
+--------
