@@ -15,27 +15,27 @@ It stores all votes securely in a file, prevents duplicate voting, and provides 
 
 # ✅ Features
 
-🗳️ Vote once per user – prevents duplicate votes
-📄 Stores voter data in voting_data.txt
-🔐 Admin panel with password protection
-👀 View all voters and results anytime
-📤 Export results to a summary file (results_summary.txt)
-❌ Delete or reset votes directly from the script
-🎨 Colorful, menu-based UI for smooth interaction
-⚙️ Works on Linux, Termux, and macOS terminals
+🗳️ Vote once per user – prevents duplicate votes  
+📄 Stores voter data in voting_data.txt  
+🔐 Admin panel with password protection  
+👀 View all voters and results anytime  
+📤 Export results to a summary file (results_summary.txt)  
+❌ Delete or reset votes directly from the script  
+🎨 Colorful, menu-based UI for smooth interaction  
+⚙️ Works on Linux, Termux, and macOS terminals  
 
 --------
 --------
 
 # 🧾 Menu Options
 ## Option	Action
-1	Vote for a candidate
-2	Show live voting results
-3	Reset all votes (Admin only)
-4	View all voters (Admin only)
-5	Export results to file (Admin only)
-6	Delete a specific voter (Admin only)
-7	Exit the program
+1	Vote for a candidate  
+2	Show live voting results  
+3	Reset all votes (Admin only)  
+4	View all voters (Admin only)  
+5	Export results to file (Admin only)  
+6	Delete a specific voter (Admin only)  
+7	Exit the program  
 
 --------
 --------
