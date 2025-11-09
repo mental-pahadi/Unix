@@ -15,7 +15,7 @@ It stores all votes securely in a file, prevents duplicate voting, and provides 
 
 # ✅ Features
 
-### 🗳️ Vote once per user – prevents duplicate votes
+#### 🗳️ Vote once per user – prevents duplicate votes
 
 ### 📄 Stores voter data in voting_data.txt
 
