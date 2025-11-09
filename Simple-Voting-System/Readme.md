@@ -76,11 +76,10 @@ pahadi01
 --------
 # 📂 Data Files
 
-File	Purpose
-
-voting_data.txt	Stores all votes and usernames
-results_summary.txt	Stores exported voting results
-
+| File | Purpose |
+|------|----------|
+| `voting_data.txt` | Stores all votes and usernames |
+| `results_summary.txt` | Stores exported voting results |
 ---
 ---
 
@@ -137,7 +136,7 @@ dos2unix VotingSystem.sh
 ---
 ---
 
-#🏁 License
+# 🏁 License
 
 This project is open-source and free to use for learning purposes.
 
