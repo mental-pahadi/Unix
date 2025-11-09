@@ -70,3 +70,53 @@ bash VotingSystem.sh
 
 --------
 --------
+#📂 Data Files
+
+File	Purpose
+
+voting_data.txt	Stores all votes and usernames
+results_summary.txt	Stores exported voting results
+
+---
+---
+
+# 🧠 How It Works
+
+1. User enters their username.
+
+2. Script checks if they’ve already voted.
+
+3. If not, they select from 3 candidates:
+
+🧑‍💼 Rohan
+
+👨‍💻 Mohan
+
+🧔 Sohan
+
+4. Votes are saved and counted in real time.
+
+5. Admin can later view, export, or reset votes easily.
+
+---
+---
+
+# 💻 Requirements
+
+Works on Linux, macOS, or Termux (Android)
+
+Requires only Bash (no external dependencies)
+
+---
+---
+
+# 🧑‍💻 Author
+
+### ☠️ PAHADI ☠️.  
+### 📅 Created in 2025.  
+### 🎓 Ideal for college mini projects and Bash beginners.  
+
+---
+---
+
+# 🌟 Example Output
