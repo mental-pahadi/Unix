@@ -41,7 +41,7 @@ It stores all votes securely in a file, prevents duplicate voting, and provides 
 --------
 
 # 🚀 Usage : 
-#### 📱 In Termux : 
+### 📱 In Termux : 
 ```bash 
 pkg install git -y
 git clone https://github.com/mental-pahadi/Unix
@@ -49,7 +49,7 @@ cd Unix/Simple-Voting-System
 chmod +x VotingSystem.sh
 ./VotingSystem.sh
 ```
-#### 💻 In Linux 
+### 💻 In Linux 
 ```bash
 sudo apt install git -y
 git clone https://github.com/mental-pahadi/Unix
@@ -57,6 +57,10 @@ cd Unix/Simple-Voting-System
 chmod +x VotingSystem.sh
 bash VotingSystem.sh
 ```
+### 👀 Default Admin Password 
+~~~bash
+pahadi01
+~~~
 
 --------
 --------
@@ -70,7 +74,7 @@ bash VotingSystem.sh
 
 --------
 --------
-#📂 Data Files
+# 📂 Data Files
 
 File	Purpose
 
@@ -119,4 +123,31 @@ Requires only Bash (no external dependencies)
 ---
 ---
 
-# 🌟 Example Output
+# ⚠️ Note
+
+If your script doesn’t run on Linux/Termux, convert line endings:
+~~~bash
+sed -i 's/\r$//' VotingSystem.sh
+~~~
+or
+~~~bash
+dos2unix VotingSystem.sh
+~~~
+
+---
+---
+
+#🏁 License
+
+This project is open-source and free to use for learning purposes.
+
+---
+---
+
+# 💬 Tip
+
+You can modify candidate names, add more options, or even change the admin password directly inside the script.
+
+---
+
+
