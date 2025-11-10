@@ -115,9 +115,9 @@ Requires only Bash (no external dependencies)
 
 # 🧑‍💻 Author
 
-### ☠️ PAHADI ☠️.  
-### 📅 Created in 2025.  
-### 🎓 Ideal for college mini projects and Bash beginners.  
+ ☠️ PAHADI ☠️.  
+📅 Created in 2025.  
+🎓 Ideal for college mini projects and Bash beginners.  
 
 ---
 ---
