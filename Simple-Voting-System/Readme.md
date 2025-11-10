@@ -41,7 +41,7 @@ It stores all votes securely in a file, prevents duplicate voting, and provides 
 --------
 
 # 🚀 Usage : 
-### 📱 In Termux : 
+### 📱 In Termux  
 ```bash 
 pkg install git -y
 git clone https://github.com/mental-pahadi/Unix
